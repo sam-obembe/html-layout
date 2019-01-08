@@ -1,0 +1,41 @@
+body{
+  background: white;
+}
+
+header{
+  height: 75px;
+  background-color: rgb(216, 216, 216);
+}
+
+main{
+  height: 300px;
+}
+
+#square{
+  background-color:  rgb(74, 144, 226);
+  height: 50px;
+  width: 50px;
+  float: left;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+div{
+  height: 150px;
+}
+
+#blue{
+  background-color: rgb(74, 144, 226);
+}
+
+#teal{
+  background-color: rgb(80 ,227 ,194 );
+}
+
+#olive{
+  background-color: rgb(184 ,233 ,134 );
+}
+
+#orange{
+  background-color: rgb(248 ,231 ,28 );
+}

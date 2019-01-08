@@ -1,0 +1,73 @@
+body{
+  background:white;
+}
+
+.container{
+  width: 70vw;
+  background:white;
+  height: 20vh;
+  margin-top: 10px;
+  margin-left: 30vh;
+  border: 1px black solid;
+}
+
+#dotted{
+  border: 1px black dotted;
+}
+
+#hellofriends{
+  width: 35vw;
+  background: white;
+  height: 20vh;
+  margin-top: 10px;
+  margin-left: 60vh;
+  font-size: 25px;
+  font-family: serif;
+  border: 1px grey solid;
+}
+
+#hellofriends h2{
+  letter-spacing: 5px;
+  text-align: center;
+  color: blue;
+}
+
+#circle{
+  border: 1px black solid;
+  width: 125px;
+  height: 125px;
+  border-radius: 100%;
+  background-color: rgb(135, 206, 235);
+  display: inline-block;
+  margin-left: 50px;
+
+}
+
+#greenrec{
+  width: 400px;
+  height: 17vh;
+  border: 1px black solid;
+  background-color: green;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 50px;
+}
+
+#purplerec{
+  width: 50px;
+  height: 15vh;
+  border: 1px black solid;
+  background-color: rgb(138, 43, 226);
+  display: inline-block;
+  margin: 20px 5px 10px 10px;
+}
+
+#peachrec{
+  width: 60vw;
+  height: 15vh;
+  border: 1px black solid;
+  background-color: rgb(255, 250, 205);
+  display: inline-block;
+  margin-top: 15px;
+  margin-left: 65px;
+}
